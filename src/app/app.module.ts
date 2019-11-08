@@ -20,7 +20,7 @@ const appRoutes : Routes = [{
 },{
   path: '',
   redirectTo: 'products',
-  pathMatch: 'full';
+  pathMatch: 'full'
 }];
 
 @NgModule({
